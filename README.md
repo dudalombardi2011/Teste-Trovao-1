@@ -1,4 +1,4 @@
-# ⚡ Teste Trovão – Programação Orientada a Objetos (Java)
+# ⚡ Teste Trovão 1 – Programação Orientada a Objetos (Java)
 
 Este repositório contém a resolução de um exercício proposto no chamado **“Teste Trovão”**, uma metodologia utilizada pelo professor como forma de **treinamento intensivo para provas**.
 
